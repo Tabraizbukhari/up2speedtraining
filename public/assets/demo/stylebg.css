@@ -1,0 +1,9 @@
+.bgimage 
+  {
+     background-image: url('/assets/demo/nlimages/navbg.png');
+  }
+
+  
+  .bgimage:hover {
+    background-image: url('/assets/demo/nlimages/navbgon.png');
+}

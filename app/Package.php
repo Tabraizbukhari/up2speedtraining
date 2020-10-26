@@ -1,0 +1,68 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Package extends Model
+{
+	protected $fillable = [
+		'patient_id',
+		'edit0',
+		'edit1',
+		'edit2',
+		'edit3',
+		'edit4',
+		'edit5',
+		'edit6',
+		'edit7',
+		'edit8',
+		'edit9',
+		'edit10',
+		'edit11',
+		'edit12',
+		'edit13',
+		'edit14',
+		'edit15',
+		'edit16',
+		'edit17',
+		'edit18',
+		'edit19',
+		'edit20',
+		'edit21',
+		'edit22',
+		'edit23',
+		'edit24',
+		'edit25',
+		'edit26',
+		'edit27',
+		'edit28',
+		'edit29',
+		'edit30',
+		'edit31',
+		'edit32',
+		'edit33',
+		'edit34',
+		'edit35',
+		'edit36',
+		'edit37',
+		'edit38',
+		'edit39',
+		'edit40',
+		'edit41',
+		'edit42',
+		'edit43',
+		'add43cat',
+		'add2ex',
+		'add5ex',
+		'add12ex',
+		'add44ex',
+		'add23ex',
+		'add25ex',
+		'add27ex',
+		'add30ex',
+		'add33ex',
+		'add36ex',
+		'add43ex'
+	];
+}
